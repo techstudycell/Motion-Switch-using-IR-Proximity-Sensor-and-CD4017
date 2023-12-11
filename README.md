@@ -10,6 +10,7 @@ You can also control the light manually using the switch as shown in the picture
 You can also make the complete circuit on a breadboard. You can also download the Gerber file and order the PCB.
 ## Tutorial Video on Motion Sensor Switch using CD4017
 
+Tutorial video link: https://youtu.be/qzaDwvWj52o
 
 During the CD4017 project tutorial video, I covered the following topics:
 
@@ -61,7 +62,40 @@ To make the circuit compact and give it a professional look, I designed the PCB 
 
 You can download the PCB Gerber file of this project from the following link:
 
-Download PCB Gerber: Download Link
+Download PCB Gerber: [Download Link](https://github.com/techstudycell/Motion-Switch-using-IR-Proximity-Sensor-and-CD4017/tree/main/PCB_Gerber)
+
+For this project, you can also use the JLC SMT Service while ordering the PCB.
+
+## Why you should use JLC SMT Service?
+On JLCPCB's one-stop online platform, customers enjoy low-cost & high-quality & fast SMT service at an $8.00 setup fee($0.0017 per joint).
+
+$27 New User coupon & $24 SMT coupons every month.
+Visit https://jlcpcb.com/RNA
+
+JLCPCB SMT Parts Library 200k+ in-stock components (689 Basic components and 200k+ Extended components)
+
+Parts Pre-Order service https://support.jlcpcb.com/article/164-what-is-jlcpcb-parts-pre-order-service
+
+Build a Personal library Inventory, save parts for now or the future
+
+Assembly will support 10M+ parts from Digikey, Mouser.
+
+## Steps to Order the PCB Assembly from JLCPCB
+1. Visit https://jlcpcb.com/RNA and **Sign in / Sign up.**
+2. Click on the **QUOTE NOW** button.
+3. Click on the "**Add your Gerber file**" button. Then browse and select the Gerber file you have downloaded.
+4. Set the required parameters like **Quantity, PCB masking color**, etc.
+5. Select the **Assemble side** and SMT Quantity.
+6. Now upload the **BOM and PickAndPlace files**.
+7. Now **confirm all the components** that you want to be soldered by SMT services.
+8. Click on the "**SAVE TO CART** button.
+9. Type the **Shipping Address**.
+10. Select the **Shipping Method** suitable for you.
+11. Submit the order and proceed with the **payment**.
+
+You can also track your order from the JLCPCB.
+My PCBs took 3 days to manufacture and arrived within a week using the DHL delivery option.
+PCBs were well packed and the quality was really good at this affordable price.
 
 ## Solder All the Components on PCB
 After that, I soldered all the components as per the circuit diagram.
